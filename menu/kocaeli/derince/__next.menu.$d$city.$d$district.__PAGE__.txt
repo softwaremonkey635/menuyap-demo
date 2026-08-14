@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[84950,["/_next/static/chunks/389i0j_jf0kib.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[84950,["/_next/static/chunks/389i0j_jf0kib.js"],"ViewportBoundary"]
+8:I[84950,["/_next/static/chunks/389i0j_jf0kib.js"],"MetadataBoundary"]
+9:I[32963,["/_next/static/chunks/389i0j_jf0kib.js"],"IconMark"]
+b:I[30075,["/_next/static/chunks/389i0j_jf0kib.js"],"default"]
+c:I[50508,["/_next/static/chunks/389i0j_jf0kib.js"],"default"]
+11:I[81988,["/_next/static/chunks/389i0j_jf0kib.js","/_next/static/chunks/08-gvbim0dvcg.js"],""]
+:HL["/_next/static/chunks/44ky-aqz1rvea.css","style"]
+6:X
+e:X
+e:C
+0:{"buildId":"mwiVxqdlS2glKPsyM01RG","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"mx-auto max-w-2xl p-4 pb-16","children":[["$","style",null,{"children":"main a{text-decoration:none}"}],["$","p",null,{"className":"text-sm text-gray-500","children":["$","a",null,{"href":"/menu/kocaeli","className":"hover:underline","children":"kocaeli"}]}],["$","h1",null,{"className":"mt-1 text-2xl font-bold","children":["Derince",": Menüler"]}],["$","ul",null,{"className":"mt-6 divide-y","children":[["$","li","deniz-lokantasi",{"className":"rounded-2xl border border-gray-100 bg-white p-4 shadow-sm transition hover:border-emerald-200 hover:shadow-md","children":["$","a",null,{"href":"/menu/kocaeli/derince/deniz-lokantasi","className":"block","children":[["$","p",null,{"className":"font-medium hover:text-emerald-700","children":"Deniz Lokantası"}],["$","p",null,{"className":"text-sm text-gray-500","children":"Liman kenarında ev yemekleri"}]]}]}]]}],false]}],[["$","script","script-0",{"src":"/_next/static/chunks/08-gvbim0dvcg.js","async":true}]],["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kafe Menüleri: derince, kocaeli | MENÜYAP | MENÜYAP"}],["$","meta","1",{"name":"description","content":"derince kocaeli bölgesindeki kafe ve restoranların güncel menü fiyatları."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L9","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@f","staleTime":"$6","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@10","staleTime":"$6","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/44ky-aqz1rvea.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/389i0j_jf0kib.js","async":true}]],["$","html",null,{"lang":"tr","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}],"notFound":[["$","main",null,{"className":"mx-auto max-w-2xl p-6 text-center","children":[["$","p",null,{"className":"text-6xl","children":"404"}],["$","h1",null,{"className":"mt-3 text-xl font-semibold","children":"Sayfa bulunamadı"}],["$","p",null,{"className":"mt-2 text-gray-600","children":"Bu adreste menü yok. Belki de bu işletme henüz MENÜYAP'a katılmadı."}],["$","$L11",null,{"href":"/menu/kocaeli","className":"mt-5 inline-block rounded-full bg-emerald-700 px-6 py-3 font-semibold text-white","children":"Kocaeli menülerine dön"}]]}],[]]}]}]}]]}],"isPartial":"$@12","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+4:null
+6:300
+14:true
+6:C
+13:0
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+10:"$undefined"
+12:"$undefined"
+5:"$undefined"

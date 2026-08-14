@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[38390,["/_next/static/chunks/389i0j_jf0kib.js","/_next/static/chunks/2k060hw38owsr.js"],"default"]
+3:I[84950,["/_next/static/chunks/389i0j_jf0kib.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[84950,["/_next/static/chunks/389i0j_jf0kib.js"],"ViewportBoundary"]
+9:I[84950,["/_next/static/chunks/389i0j_jf0kib.js"],"MetadataBoundary"]
+a:I[32963,["/_next/static/chunks/389i0j_jf0kib.js"],"IconMark"]
+c:I[30075,["/_next/static/chunks/389i0j_jf0kib.js"],"default"]
+d:I[50508,["/_next/static/chunks/389i0j_jf0kib.js"],"default"]
+11:I[81988,["/_next/static/chunks/389i0j_jf0kib.js","/_next/static/chunks/08-gvbim0dvcg.js"],""]
+:HL["/_next/static/chunks/44ky-aqz1rvea.css","style"]
+7:X
+f:X
+f:C
+0:{"buildId":"mwiVxqdlS2glKPsyM01RG","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"kafeler-sokagi-kahve","name":"Kafeler Sokağı Kahve","initial":[{"name":"Kahveler","items":[{"name":"Türk Kahvesi","description":"Klasik, orta şekerli","price":85},{"name":"Latte","description":"Çift shot espresso, süt","price":120},{"name":"Cappuccino","price":110},{"name":"Espresso","price":90},{"name":"Filtre Kahve","description":"Günlük demleme","price":95}]},{"name":"Soğuk İçecekler","items":[{"name":"Ice Latte","price":130},{"name":"Limonata","description":"Taze sıkım","price":100},{"name":"Ice Tea","price":90}]},{"name":"Atıştırmalıklar","items":[{"name":"Cheesecake","description":"Günlük yapım","price":140},{"name":"Tost","description":"Kaşar + sucuk","price":160}]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/2k060hw38owsr.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kafeler Sokağı Kahve Düzenleyici | MENÜYAP | MENÜYAP"}],["$","meta","1",{"name":"description","content":"Kafe ve restoranların güncel menü fiyatları. WhatsApp'tan komisyonsuz sipariş. Platform komisyonu yok."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$La","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/44ky-aqz1rvea.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/389i0j_jf0kib.js","async":true}]],["$","html",null,{"lang":"tr","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[["$","main",null,{"className":"mx-auto max-w-2xl p-6 text-center","children":[["$","p",null,{"className":"text-6xl","children":"404"}],["$","h1",null,{"className":"mt-3 text-xl font-semibold","children":"Sayfa bulunamadı"}],["$","p",null,{"className":"mt-2 text-gray-600","children":"Bu adreste menü yok. Belki de bu işletme henüz MENÜYAP'a katılmadı."}],["$","$L11",null,{"href":"/menu/kocaeli","className":"mt-5 inline-block rounded-full bg-emerald-700 px-6 py-3 font-semibold text-white","children":"Kocaeli menülerine dön"}]]}],[]]}]}]}]]}],"isPartial":"$@12","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+5:null
+7:300
+14:true
+7:C
+13:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+12:"$undefined"
+6:"$undefined"
