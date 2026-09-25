@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fbuilder\u002F[slug]","\u002Fmenu\u002F[city]","\u002Fmenu\u002F[city]\u002F[district]","\u002Fmenu\u002F[city]\u002F[district]\u002F[merchant]","\u002Fqr\u002F[slug]","\u002Fuyum\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
